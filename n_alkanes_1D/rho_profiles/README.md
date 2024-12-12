@@ -1,0 +1,1 @@
+These files contain the initial `rho_ini.dat` and intermediate density profiles at different time steps (for plotting as well as for simulation continuation/checkpoints).
