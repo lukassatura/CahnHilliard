@@ -1,3 +1,6 @@
+# MacOS folder configurations
+.DS_*
+
 # Prerequisites
 *.d
 
