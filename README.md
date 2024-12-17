@@ -1,4 +1,5 @@
 # Cahn-Hilliard
+Dynamic simulation of density profile evolution in multi-phase liquid-vapor and liquid-liquid systems.
 
 ## Author
 **Lukáš Šatura**
